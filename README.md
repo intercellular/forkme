@@ -6,7 +6,8 @@ Simply call `ForkMe()` with your repo URL as param.
 
 ## Usage
 
-{
+```js
+var app = {
   $cell: true,
   $components: [
 
@@ -20,9 +21,11 @@ Simply call `ForkMe()` with your repo URL as param.
 
   ]
 }
+```
 
 ## Example
 
+```html
 <html>
 <script src="https://www.celljs.org/cell.js"></script>
 <script src="https://intercellular.github.io/forkme/forkme.js"></script>
@@ -48,3 +51,4 @@ var app = {
 }
 </script>
 </html>
+```
