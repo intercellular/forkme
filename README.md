@@ -4,9 +4,15 @@ A cell.js component for the "Fork me on Github" banner.
 
 Simply call `ForkMe()` with your repo URL as param.
 
+![screenshot](./example/screenshot.png)
+
+<br>
+
 ## Demo
 
 View the demo [here](https://intercellular.github.io/forkme/example)
+
+<br>
 
 ## Usage
 
@@ -26,6 +32,8 @@ var app = {
   ]
 }
 ```
+
+<br>
 
 ## Example
 
