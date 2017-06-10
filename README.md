@@ -6,7 +6,7 @@ Simply call `ForkMe()` with your repo URL as param.
 
 ## Demo
 
-View the demo [here](https://intercellular.github.io/forkme)
+View the demo [here](https://intercellular.github.io/forkme/example)
 
 ## Usage
 
